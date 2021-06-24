@@ -1,6 +1,12 @@
 # DS_Store
 .DS_Store
 
+# Summary notebook for README
+Durante_mod3_proj_073120_summary.ipynb
+
+# Presentation file (converted to .pdf for publication on GitHub)
+Mod3_proj_Durante_081220 copy.key
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
