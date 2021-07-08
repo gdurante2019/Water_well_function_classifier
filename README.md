@@ -285,7 +285,3 @@ Having lots of skill at data visualization and manipulation is great, but these 
 * Evaluating whether funder or installer country of origin influences well functionality
   * If the government of Tanzania or Taarifa had a complete and accurate list of the location for each funder/installer, the locations of the funders or installers could be another feature on which to model 
 * Latitude / longitude—Looking at functional status of wells at various geographic locations to identify possible patterns due to geological differences
-
-
-## Link to Blog post
-https://github.com/gdurante2019/dsc-mod-3-project-v2-1-online-ds-sp-000
